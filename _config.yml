@@ -1,0 +1,22 @@
+# Setup
+title:               Tactical Press
+tagline:             'by Anthony Ding'
+description:         '<i>Tactical Press</i> is a new project of mine, geared towards tactical analysis of sports, mostly soccer.'
+url:                 https://anthonydi.ng/blog
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Anthony Ding
+  url:               https://anthonydi.ng
+  email:             anthonyding@berkeley.edu
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
